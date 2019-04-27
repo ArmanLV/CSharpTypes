@@ -1,0 +1,11 @@
+I:\Visual Projects\CSharp7\CSharp7\obj\Debug\netcoreapp2.1\CSharp7.csprojAssemblyReference.cache
+I:\Visual Projects\CSharp7\CSharp7\obj\Debug\netcoreapp2.1\CSharp7.csproj.CoreCompileInputs.cache
+I:\Visual Projects\CSharp7\CSharp7\obj\Debug\netcoreapp2.1\CSharp7.AssemblyInfoInputs.cache
+I:\Visual Projects\CSharp7\CSharp7\obj\Debug\netcoreapp2.1\CSharp7.AssemblyInfo.cs
+I:\Visual Projects\CSharp7\CSharp7\bin\Debug\netcoreapp2.1\CSharp7.deps.json
+I:\Visual Projects\CSharp7\CSharp7\bin\Debug\netcoreapp2.1\CSharp7.runtimeconfig.json
+I:\Visual Projects\CSharp7\CSharp7\bin\Debug\netcoreapp2.1\CSharp7.runtimeconfig.dev.json
+I:\Visual Projects\CSharp7\CSharp7\bin\Debug\netcoreapp2.1\CSharp7.dll
+I:\Visual Projects\CSharp7\CSharp7\bin\Debug\netcoreapp2.1\CSharp7.pdb
+I:\Visual Projects\CSharp7\CSharp7\obj\Debug\netcoreapp2.1\CSharp7.dll
+I:\Visual Projects\CSharp7\CSharp7\obj\Debug\netcoreapp2.1\CSharp7.pdb
